@@ -1,5 +1,5 @@
-def soma(a,b):
-    return a+b
+def soma_2(a,b):
+    return a+3+b
 
 def div(a,b):
     return a/b
